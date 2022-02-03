@@ -18,7 +18,9 @@ h1{
     text-transform: uppercase;
 	text-align: center;
 }
-
+a .active {
+	color:#00274C;
+}
 /*Style the images*/
 img{
     height: 200px;
