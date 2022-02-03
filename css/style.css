@@ -18,7 +18,7 @@ h1{
     text-transform: uppercase;
 	text-align: center;
 }
-a .active {
+a:active {
 	color:#00274C;
 }
 /*Style the images*/
