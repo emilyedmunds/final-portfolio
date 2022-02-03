@@ -16,6 +16,7 @@ h1{
 	background: white;
     text-transform: uppercase;
 	text-align: center;
+	color: #00274C;
 }
 
 .active a{
@@ -57,15 +58,20 @@ nav li{
 	background-color: #00274C;
 	padding:10px;
 	width:25%;
-	border:1px solid black;
+	/* border:1px solid black; */
 	display: inline-block;
 	width: 20%;
 }
 
+a {
+	color: white;
+  }
 
 
 /*Added this so the links stay the same color*/
-a:visited{color:white}
+a:visited{
+	color:white
+}
 
 img:hover{
 	opacity: 0.3;
@@ -74,7 +80,7 @@ img:hover{
  .column {
 	float: left;
 	width: 33.33%;
-	padding: 5px;
+	padding: 2px;
   }
   
   /* Clearfix (clear floats) */
