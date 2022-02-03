@@ -19,7 +19,7 @@ h1{
 	text-align: center;
 }
 
-.naviitem {
+.naviitem a{
 	color: white;
 	background: #00274C;
 }
