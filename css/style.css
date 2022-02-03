@@ -71,7 +71,7 @@ head a {
 
 /*Added this so the links stay the same color*/
 a:visited{
-	color:white
+	color: #00274C;
 }
 
 img:hover{
