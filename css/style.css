@@ -18,6 +18,11 @@ h1{
     text-transform: uppercase;
 	text-align: center;
 }
+
+.naviitem {
+	color: white;
+	background: #00274C;
+}
 a:active {
 	color:#00274C;
 }
@@ -61,9 +66,6 @@ nav li{
 	width: 20%;
 }
 
-head a {
-	color: white;
-  }
 
  a {
 	color: #00274C;
