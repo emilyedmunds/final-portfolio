@@ -13,14 +13,10 @@ h1{
 }
 
 .active{
+	color: #00274C;
 	background: white;
     text-transform: uppercase;
 	text-align: center;
-	color: #00274C;
-}
-
-.active a{
-	text-decoration: none;;
 }
 
 /*Style the images*/
